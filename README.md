@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MuditJain5/MuditJain5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi there 👋, I am Mudit Jain</h1>
+
+<p>I am a Programmer and a Full-Stack Web Developer</p>
+
+- 🏫 I’m currently a C.S.E. undergraduate at NIT Jalandhar
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/muditjain5/" target="_blank">Mudit Jain</a>
