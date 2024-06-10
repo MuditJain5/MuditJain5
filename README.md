@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 <!-- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\ -->
-🎓 &nbsp;I'm currently studying Computer Science and Engineering at NIT Jalandhar.
+🎓 &nbsp; I'm currently a Software Developer at Flipkart.
 <!-- 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
@@ -35,7 +35,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.muditjain.in"><img src="https://img.shields.io/badge/-muditjain.in-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> &nbsp; &nbsp; &nbsp;
+<!-- <a href="https://www.muditjain.in"><img src="https://img.shields.io/badge/-muditjain.in-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> &nbsp; &nbsp; &nbsp; -->
 <a href="https://www.linkedin.com/in/muditjain5/"><img src="https://img.shields.io/badge/-Mudit%20Jain-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> &nbsp; &nbsp; &nbsp;
 <a href="mailto:muditj148@gmail.com"><img src="https://img.shields.io/badge/-muditj148@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
